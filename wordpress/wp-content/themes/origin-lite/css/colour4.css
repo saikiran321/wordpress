@@ -1,0 +1,31 @@
+ /*
+Colour option 3 - Blue and Green --------------------------------------------------------------- */
+
+/*
+-----------------------------------------------------------------------------------------------------
+Blue - 2c73bc
+-------------------------------------------------------------------------------------------------- */
+
+a { color: #2c73bc; }
+.flex-caption { border-bottom: 3px solid #2c73bc; }
+.searchform input.s:focus, input#author:focus, input#email:focus, textarea:focus, input[type="text"]:focus { border-color: #2c73bc !important; outline: 0; }
+#access .current_page_item a { background: #2c73bc; border-color: #2c73bc; }
+#access li:hover > a, #access ul ul :hover > a, #access ul li.current-menu-item > a { background: #2c73bc; border-color: #2c73bc; }
+#access li.current-menu-item:hover > a, #access li.current_page_item:hover > a { background: #2c73bc; border-color: #2c73bc; } 
+
+#access ul ul a, #submit, .button { background-color: #2c73bc; color: #fff; }
+#submit:hover, .button:hover { border-color: #2c73bc; }
+#featured a:hover .flex-caption { color: #2c73bc; }
+#featured a:hover .flex-caption p { color: #fff; }
+
+header.container { background: #4990d9 url(../images/headerbg3.gif) repeat; }
+
+/*
+-----------------------------------------------------------------------------------------------------
+Green - 80890d
+-------------------------------------------------------------------------------------------------- */
+
+.page-title, .widget-title, #comments-title, #reply-title, .widget-title a { color: #80890d; }
+#access li:hover > a, #access ul ul :hover > a, #access ul li.current-menu-item > a { background: #80890d; border-color: #80890d; }
+#comments .bypostauthor > article > footer > .vcard > .avatar { border: 2px solid #80890d; }
+

@@ -1,0 +1,31 @@
+/*
+Colour option 1 - Dark orange and Turquoise ----------------------------------------------------- */
+
+/*
+-----------------------------------------------------------------------------------------------------
+Dark Orange - b74b04
+-------------------------------------------------------------------------------------------------- */
+
+a { color: #b74b04; }
+.flex-caption { border-bottom: 3px solid #b74b04; }
+.searchform input.s:focus, input#author:focus, input#email:focus, textarea:focus, input[type="text"]:focus { border-color: #b74b04 !important; outline: 0; }
+#access .current_page_item a { background: #b74b04; border-color: #b74b04; }
+#access ul ul :hover > a { background: #b74b04; border-color: #b74b04; }
+#access li.current-menu-item:hover > a, #access li.current_page_item:hover > a { background: #b74b04; border-color: #b74b04; } 
+
+#access ul ul a, #submit, .button { background-color: #b74b04; color: #fff; }
+#submit:hover, .button:hover { border-color: #b74b04; }
+#featured a:hover .flex-caption { color: #b74b04; }
+#featured a:hover .flex-caption p { color: #fff; }
+
+header.container { background: #b74b04 url(../images/headerbg1.gif) repeat; }
+
+/*
+-----------------------------------------------------------------------------------------------------
+Turquoise - 0398a5
+-------------------------------------------------------------------------------------------------- */
+
+.page-title, .widget-title, #comments-title, #reply-title, .widget-title a { color: #0398a5; }
+#access ul ul :hover > a { background: #0398a5; border-color: #0398a5; }
+#comments .bypostauthor > article > footer > .vcard > .avatar { border: 2px solid #0398a5; }
+

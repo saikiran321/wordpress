@@ -1,0 +1,31 @@
+/*
+Colour option 1 - Dark orange and Turquoise ----------------------------------------------------- */
+
+/*
+-----------------------------------------------------------------------------------------------------
+Orange - b17b08
+-------------------------------------------------------------------------------------------------- */
+
+a { color: #b17b08; }
+.flex-caption { border-bottom: 3px solid #b17b08; }
+.searchform input.s:focus, input#author:focus, input#email:focus, textarea:focus, input[type="text"]:focus { border-color: #b17b08 !important; outline: 0; }
+#access .current_page_item a { background: #b17b08; border-color: #b17b08; }
+#access li:hover > a, #access ul ul :hover > a, #access ul li.current-menu-item > a { background: #b17b08; border-color: #b17b08; }
+#access li.current-menu-item:hover > a, #access li.current_page_item:hover > a { background: #b17b08; border-color: #b17b08; } 
+
+#access ul ul a, #submit, .button { background-color: #b17b08; color: #fff; }
+#submit:hover, .button:hover { border-color: #b17b08; }
+#featured a:hover .flex-caption { color: #b17b08; }
+#featured a:hover .flex-caption p { color: #fff; }
+
+header.container { background: #b17b08 url(../images/headerbg5.gif) repeat; }
+
+/*
+-----------------------------------------------------------------------------------------------------
+Red - 0398a5
+-------------------------------------------------------------------------------------------------- */
+
+.page-title, .widget-title, #comments-title, #reply-title, .widget-title a { color: #8a2f0b; }
+#access li:hover > a, #access ul ul :hover > a, #access ul li.current-menu-item > a { background: #8a2f0b; border-color: #8a2f0b; }
+#comments .bypostauthor > article > footer > .vcard > .avatar { border: 2px solid #8a2f0b; }
+

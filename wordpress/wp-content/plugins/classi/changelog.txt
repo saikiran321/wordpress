@@ -1,0 +1,25 @@
+Theme Name: Classicraft Theme  Changelog
+======================================
+
+* Version 1.1.0
+***************************************
+1. Dashboard authentication issue fixed. 
+2. Expiring ads improved.
+3. Added renew ad feature; 
+4. Post ad button modified to wide text.
+5. Added an option for custom currency symbol for frontend.
+6. Modified price fields for wide numbers.
+7. Issue Firefox single page break, now fixed.
+8. Author id added in import csv.
+9. Address field removed from import and export csv.
+10.Latitude and longitude field removed from import,export csv.
+11.Issue Layout design breaks in Ipad, now fixed.
+12.Issue go back button not show history, now fixed.
+13.Issue Paypal return page show default style, now fixed.
+14.Issue After Theme activate, links are not active, now fixed.
+15.Issue First time theme install, the single page not show, now fixed.
+16.Issue Blog style break, now fixed.
+17.Issue some text translation, now fixed.
+* Version 1.0
+***************************************
+1. Theme is created
