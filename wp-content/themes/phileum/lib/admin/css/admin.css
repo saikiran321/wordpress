@@ -1,0 +1,176 @@
+#custom-theme-option option {
+	padding: 3px 10px;
+}
+#custom-theme-option h1 {
+   font-size: 20px;
+   font-weight: 300;
+}
+#custom-theme-option p.notice {
+	font-size: 1em;
+	background: #FFFFD9;
+	display: block;
+	border: 1px solid #FC6;
+	padding: 0.5em;
+	clear: both;
+	float: left;
+}
+
+#wp-theme-options h3 {
+  font-size: 1.25em;
+  margin: 1em 0 0;
+  display:block;
+  width: 100%;
+  float:left;
+}
+#announce {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	height: auto;
+    float:left;
+	width: 100%;
+}
+#announce h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #111;
+	display: block;
+}
+#announce #rss {
+	font-size: 1.2em;
+}
+#announce #rss a {
+	text-decoration: none;
+	font-weight: bold;
+}
+#announce #rss a:hover {
+	text-decoration: none;
+}
+#announce #note {
+	font-size: 1em;
+	color: #333333;
+}
+#announce #note a {
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#announce #note a:hover {
+	text-decoration: none;	
+}
+
+.premium-theme-list {
+	width:100%;
+	float:left;
+	padding: 0 0 8px 0;
+	margin: 0 0 12px 0;
+    position:relative;
+    border-bottom: 1px solid #eee;
+}
+.premium-theme-list h2 {
+ font-size: 16px; line-height:24px; letter-spacing: normal;
+ font-family: Arial, sans-serif;
+ position:absolute;
+ top:-5px; left: 74px;
+}
+.premium-theme-list.pt4 {
+  border-bottom: 0 none;
+   margin: 0 !important;
+}
+
+div#fbbox {
+  width:300px;
+  padding: 0 20px 0 0;
+  float:left;
+}
+
+div#sponsored {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #d8dfea;
+	background: white;
+	float: left;
+	width: 500px;
+	height: 368px;
+}
+div#sponsored a.more-themes {
+	font-weight: bold;
+	font-size:12px;
+	text-align: center;
+	display: block;
+	height: auto;
+	width: auto;
+	clear: both;
+	margin: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-transform: uppercase;
+}
+
+div#sponsored h6 {
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-align: left;
+	display: block;
+	padding: 8px;
+	clear: both;
+	height: auto;
+	width: auto;
+	background-color: #EDEFF4;
+	margin: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #d8dfea;
+}
+div#sponsored #content {
+	width: auto;
+	padding: 10px;
+	margin: 0px;
+	height: auto;
+}
+div#sponsored #content a {
+	text-decoration: none;
+}
+div#sponsored #content a:hover {}
+div#sponsored #content img {
+	height: auto;
+    width:auto;
+    margin: 0px 10px 0 0;
+	width: 64px;
+    float:left;
+}
+div#sponsored #content p {
+	width: auto;
+	text-align: left;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	height: auto;
+	font-size: 12px;
+	color: #666666;
+}
+div#sponsored #content h2 {
+	font-weight: bold;
+	text-align: left;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	height: auto;
+	width: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+div#sponsored {width: 480px;}
+div#fbbox {padding: 0 10px 0 0;}
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1920px) {
+
+}
